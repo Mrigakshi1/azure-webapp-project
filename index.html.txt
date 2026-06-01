@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Azure Web App Demo</title>
+</head>
+<body style="text-align:center; font-family:Arial;">
+    <h1>My First Azure App Service Deployment</h1>
+    <p>This web app is deployed using Azure App Service + GitHub CI/CD</p>
+    <p>Created as part of AZ-900 + AZ-104 Portfolio Project</p>
+</body>
+</html>
